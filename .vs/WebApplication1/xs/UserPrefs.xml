@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{603C2191-ED97-4B90-8005-DF5CE20C094C}|WebApplication1">
   <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication1/appsettings.json">
     <Files>
-      <File FileName="WebApplication1/Controllers/WeatherForecastController.cs" Line="31" Column="5" />
+      <File FileName="WebApplication1/Controllers/WeatherForecastController.cs" Line="30" Column="1" />
       <File FileName="WebApplication1/WeatherForecast.cs" />
-      <File FileName="WebApplication1/Startup.cs" Line="1" Column="1" />
-      <File FileName="WebApplication1/Program.cs" Line="24" Column="15" />
-      <File FileName="WebApplication1/appsettings.json" Line="10" Column="34" />
+      <File FileName="WebApplication1/Startup.cs" />
+      <File FileName="WebApplication1/Program.cs" />
+      <File FileName="WebApplication1/appsettings.json" Line="12" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -24,7 +24,10 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/alaneemac/Desktop/myapp/api/testing/WebApplication1/WeatherForecast.cs" relfile="WebApplication1/WeatherForecast.cs" line="7" column="1" />
+      <Breakpoint file="/Users/alaneemac/Desktop/myapp/api/testing/WebApplication1/Controllers/WeatherForecastController.cs" relfile="WebApplication1/Controllers/WeatherForecastController.cs" line="30" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
