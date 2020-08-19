@@ -5112,26 +5112,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\edmon\\.nuget\\packages\\": {}
+    "/Users/alaneemac/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edmon\\Desktop\\Folder\\Testing\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "/Users/alaneemac/Desktop/myapp/api/testing/WebApplication1/WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\edmon\\Desktop\\Folder\\Testing\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-      "packagesPath": "C:\\Users\\edmon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edmon\\Desktop\\Folder\\Testing\\WebApplication1\\WebApplication1\\obj\\",
+      "projectPath": "/Users/alaneemac/Desktop/myapp/api/testing/WebApplication1/WebApplication1.csproj",
+      "packagesPath": "/Users/alaneemac/.nuget/packages/",
+      "outputPath": "/Users/alaneemac/Desktop/myapp/api/testing/WebApplication1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\edmon\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/alaneemac/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5175,7 +5173,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\edmon\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\edmon\\.nuget\\packages"
+      "/Users/alaneemac/.dotnet/store/|arch|/|tfm|",
+      "/Users/alaneemac/.nuget/packages"
     ]
   }
 }
